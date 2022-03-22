@@ -1,14 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to a GitHub Page for JRAEBROWN.com
 
-You can use the [editor on GitHub](https://github.com/jraebrown/jraebrown.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+It's going to change. With every commit, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the site based on the content of my Markdown files.
+You don't need to know any of that, so this is more a note for myself in case I get distracted by something shiny and forget what I was doing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Oh look! 
 
-### Markdown
+### Squirrel!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Anyway, here's some more informative placeholder text. Something more exciting will replace it soon enough...
+
 
 ```markdown
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 Syntax highlighted code block
 
 # Header 1
